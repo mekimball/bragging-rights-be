@@ -25,7 +25,7 @@ For a relatively small app like this, there aren't many advantages to choosing a
 - Ruby 2.7.2
 - PostgreSQL
 - Heroku (https://bragging-rights-quiz.herokuapp.com/)
-- Twitter OAth
+- Twitter OAuth
 - Circle CI
 
 ## Setup
